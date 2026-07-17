@@ -191,7 +191,7 @@ john. Smith created successfully.
 
 ### Users Created
 
-![Users Created](Screenshots/05-User-Creation.png")
+![Users Created](Screenshots/05-User-Creation.png)
 
 
 ### Group Membership
