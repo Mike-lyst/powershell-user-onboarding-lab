@@ -8,7 +8,7 @@ This project demonstrates how to automate Active Directory user onboarding using
 
 Instead of manually creating user accounts one at a time, the script provisions multiple users automatically, places them into the correct Organizational Units (OUs), assigns security group memberships, and logs all actions for auditing and troubleshooting.
 
-This project simulates a real-world enterprise onboarding process where HR provides employee information, and IT automates account provisioning.
+This project simulates a real-world enterprise onboarding process in which HR provides employee information and IT automates account provisioning.
 
 ---
 
@@ -28,21 +28,21 @@ This project solves these challenges through automation.
 
 ## Features
 
-✅ Bulk user creation from CSV
+ Bulk user creation from CSV
 
-✅ Automatic Organizational Unit placement
+ Automatic Organizational Unit placement
 
-✅ Department-based security group assignment
+ Department-based security group assignment
 
-✅ User existence checks
+ User existence checks
 
-✅ Logging and error handling
+ Logging and error handling
 
-✅ Force password change at first logon
+ Force password change at first logon
 
-✅ Standardized naming convention
+ Standardized naming convention
 
-✅ Scalable onboarding workflow
+ Scalable onboarding workflow
 
 ---
 
@@ -183,33 +183,27 @@ john. Smith created successfully.
 
 ### Active Directory Structure
 
-![AD Structure]
-("C:\Users\Hp\Documents\01-User-Onboarding\Screenshots\01-ADUC-STRUCTURE.png")
+![AD Structure](Screenshots/01-ADUC-STRUCTURE.png)
 
 ### Script Execution
 
-![Script Execution]
-("C:\Users\Hp\Documents\01-User-Onboarding\Screenshots\06-Script Execution.png")
+![Script Execution](Screenshots/06-Script-Execution.png)
 
 ### Users Created
 
-![Users Created]
-("C:\Users\Hp\Documents\01-User-Onboarding\Screenshots\05-User Creation.png")
+![Users Created](Screenshots/05-User-Creation.png")
 
 
 ### Group Membership
 
-![Group Membership]
-("C:\Users\Hp\Documents\01-User-Onboarding\Screenshots\07-Group Membership .png")
+![Group Membership](Screenshots/07-Group-Membership.png)
 
 ### Log File
 
-![Log File]
-("C:\Users\Hp\Documents\01-User-Onboarding\Screenshots\08-Log Files.png")
+![Log File](Screenshots/08-Log-Files.png)
 
 ### CSV File
-![CSV File]
-("C:\Users\Hp\Documents\01-User-Onboarding\Screenshots\02-CSV-FILE.png")
+![CSV File](Screenshots/02-CSV-FILE.png)
 
 ---
 
@@ -253,6 +247,6 @@ Infrastructure & Identity Engineer
 - PowerShell Automation
 - Cloud Security
 
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+LinkedIn: www.linkedin.com/in/michaelokwuora001
 
-GitHub: https://github.com/YOUR-GITHUB
+
