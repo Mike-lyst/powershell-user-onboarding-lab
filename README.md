@@ -145,7 +145,7 @@ Mary, Ade, Operations
 ## Workflow
 
 ```text
-HR provides employee list
+HR provides the employee list
             ↓
 PowerShell imports CSV
             ↓
@@ -183,27 +183,25 @@ john. Smith created successfully.
 
 ### Active Directory Structure
 
-![AD Structure](Screenshots/01-ADUC-STRUCTURE.png)
-
-### Script Execution
-
-![Script Execution](Screenshots/06-Script-Execution.png)
-
-### Users Created
-
-![Users Created](Screenshots/05-User-Creation.png)
-
-
-### Group Membership
-
-![Group Membership](Screenshots/07-Group-Membership.png)
-
-### Log File
-
-![Log File](Screenshots/08-Log-Files.png)
+![AD Structure](Screenshots/01-AD-Structure.png)
 
 ### CSV File
-![CSV File](Screenshots/02-CSV-FILE.png)
+![CSV File](Screenshots/02-CSV-File.png)
+
+### Users Created
+![Users Created](Screenshots/03-Users-Created.png)
+
+
+### Script Execution
+![Script Execution](Screenshots/04-Script-Execution.png)
+
+### Group Membership
+![Group Membership](Screenshots/05-Group-Membership.png)
+
+### Log File
+![Log File](Screenshots/06-Log-File.png)
+
+
 
 ---
 
