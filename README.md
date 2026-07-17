@@ -201,8 +201,6 @@ john. Smith created successfully.
 ### Log File
 ![Log File](Screenshots/06-Log-File.png)
 
-
-
 ---
 
 ## Skills Demonstrated
